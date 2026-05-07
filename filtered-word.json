@@ -1,0 +1,82 @@
+[
+    {
+        "id": 0,
+        "word": "a",
+        "type": "indefinite article",
+        "level": "A1",
+        "example": "There's a visitor for you.",
+        "definition": "一個"
+    },
+    {
+        "id": 2,
+        "word": "ability",
+        "type": "noun",
+        "level": "A2",
+        "example": "She has an uncanny ability to predict what consumers will want. ",
+        "definition": "能力"
+    },
+    {
+        "id": 4,
+        "word": "abolish",
+        "type": "verb",
+        "level": "C1",
+        "example": "This tax should be abolished.",
+        "definition": "廢除"
+    },
+    {
+        "id": 5,
+        "word": "abortion",
+        "type": "noun",
+        "level": "C1",
+        "example": "the country's strict abortion laws",
+        "definition": "墮胎"
+    },
+    {
+        "id": 7,
+        "word": "about",
+        "type": "preposition",
+        "level": "A1",
+        "example": "There's something strange about him.",
+        "definition": "關於"
+    },
+    {
+        "id": 12,
+        "word": "absent",
+        "type": "adjective",
+        "level": "C1",
+        "example": "Local people were conspicuously absent from the meeting.",
+        "definition": "缺席的"
+    },
+    {
+        "id": 14,
+        "word": "absolutely",
+        "type": "adverb",
+        "level": "B1",
+        "example": "The place was absolutely packed.",
+        "definition": "完全地"
+    },
+    {
+        "id": 16,
+        "word": "abstract",
+        "type": "adjective",
+        "level": "B2",
+        "example": "The research shows that pre-school children are capable of thinking in abstract terms.",
+        "definition": "抽象的"
+    },
+    {
+        "id": 18,
+        "word": "abundance",
+        "type": "noun",
+        "level": "C1",
+        "example": "We were amazed by the sheer abundance of food.",
+        "definition": "豐富"
+    },
+    {
+        "id": 20,
+        "word": "abuse",
+        "type": "verb",
+        "level": "C1",
+        "example": "He systematically abused his body with heroin and cocaine.",
+        "definition": "濫用"
+    }
+]
